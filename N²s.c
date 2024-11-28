@@ -9,7 +9,7 @@ int main (){
 	scanf ("%d", &n2);
     printf ("Mais um!? voce esta me dando muito trabalho, eh tao divertido!!.");
 	scanf ("%d", &n3);
-	printf ("Aqui, prontinho, fiz o favor de somar todos so pra voce, nao va enfiar todos no cuzinho de uma vez \n");
+	printf ("Aqui, prontinho, fiz o favor de somar todos so pra voce, nao va comer tudo de uma vez \n");
     printf( "%d", n1 * n1 + n2 * n2 + n3 * n3);
 	return 0;
 }
